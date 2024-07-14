@@ -1,0 +1,23 @@
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Django
+*.log
+*.pot
+local_settings.py
+/media
+/static
+
+# Игнорировать файлы и папки IDE (например, PyCharm, VS Code)
+.idea/
+.vscode/
